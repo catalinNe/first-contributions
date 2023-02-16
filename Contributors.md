@@ -172,6 +172,7 @@
 -[Tomas Jauregui] 
 - [Kanhaiya gavit]
 - [isaiah peters]
+- [Catalin Negrutiu] (https://github.com/catalinNe)
 - [shabarish k]
 - [Aman Srivastav](https://github.com/Aman7s)
 - [Rakshaa](https://github.com/rakshaa-01)
